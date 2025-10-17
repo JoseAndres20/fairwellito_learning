@@ -5,7 +5,7 @@
 ---
 
 ## 🎯 Propósito
-
+## Usar Obsidian o VScode 
 Este repositorio es mi cuaderno digital donde documento todo lo que voy aprendiendo en ciberseguridad de forma práctica y ordenada:
 
 - 🧪 **Laboratorios:** Ejercicios prácticos de TryHackMe, HackTheBox, CTFs y más
