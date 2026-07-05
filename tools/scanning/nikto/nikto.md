@@ -1,0 +1,3 @@
+# Nikto
+
+Documentación pendiente.

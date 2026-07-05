@@ -10,7 +10,7 @@ pip install flask-unsign --break-system-packages
 
 ### 1. Decodificar cookie (ver contenido)
 ```bash
-flask-unsign --decode --cookie 'eyJ1c2VybmFtZSI6ImFhYSJ9.akAuyw.Qa7SvfftziUjD4RrqmFm8Ihm2iY'
+flask-unsign --decode --cookie 'fFzDSIio0JEVwGLeDTYVMBcqV5UirViLbhXZguZuKdXUyqYOS11FCtLjXG4oRxeKHQSOWToKv++10zm44FOB5YczWKxgsz4jkYjR8VMO9PF5THN60zRPiySeq1pX1o0y'
 ```
 
 ### 2. Crackear SECRET_KEY

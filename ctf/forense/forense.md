@@ -346,7 +346,7 @@ La forma de onda muestra:
 - ~2.1 segundos de **tonos puros** (calibración SSTV a 1900 Hz)
 - ~112 segundos de **señal FM densa** → esto es la imagen SSTV
 
-![[audacity_waveform.png]] _(La señal SSTV se ve como barras verticales densas y uniformes)_
+_(La señal SSTV se ve como barras verticales densas y uniformes)_
 
 ### Confirmar con espectrograma
 
@@ -430,9 +430,9 @@ Si la imagen decodificada tiene ruido (checkerboard), abrir en **GIMP**:
 
 O con la versión Python ya decodificada limpia, la imagen se ve directamente:
 
-![[sstv_decoded_clean.png]]
-
 ---
+
+
 
 ## 🏁 Flag
 
