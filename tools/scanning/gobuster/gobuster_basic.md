@@ -1,7 +1,9 @@
 ## Comando básico (búsqueda de directorios)
-```bash 
-gobuster dir -u https://ea3d4041d2baa078.chal.ctf.ae/ -w /usr/share/wordlists/dirb/common.txt -t 50 -o gobuster_dir.txt
+```python 
+gobuster dir -u hhttps://challenges.hackrocks.com/restricted-area/ -w /usr/share/wordlists/dirb/common.txt -t 50 -o gobuster_dir.txt
 
+
+gobuster dir -u https://challenges.hackrocks.com/restricted-area/downloads/ -w /usr/share/wordlists/dirb/common.txt -x .txt,.php,.docx,.zip
 
 .DS_Store   //De algo de destock
 .htaccess   //De apache
