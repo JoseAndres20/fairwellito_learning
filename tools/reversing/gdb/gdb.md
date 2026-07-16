@@ -30,6 +30,9 @@
 ```bash
 #Desamblarfunciones
 gdb ./vuln
+
+info functions
+
 (gdb) disassemble main
 ```
 
