@@ -1,1 +1,5 @@
+
 Revisar los files js en las wen cuando envian formularios o validaciones para  verificar como se validan y demas.
+
+Para  js minin
+https://beautifier.io/

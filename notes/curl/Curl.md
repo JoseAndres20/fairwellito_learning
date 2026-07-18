@@ -5,6 +5,13 @@ Tags: #ctf #web #curl
 ## Básicos
 
 ```bash
+# Buscar texto específico en todos los archivos de una carpeta:
+grep -rnw . -e "CTF{"
+
+```
+
+
+```bash
 # GET simple
 curl http://target.com/
 
