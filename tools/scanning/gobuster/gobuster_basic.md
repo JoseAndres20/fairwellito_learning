@@ -3,7 +3,7 @@
 gobuster dir -u https://challenges.hackrocks.com/restricted-area/ -w /usr/share/wordlists/dirb/common.txt -t 50 -o gobuster_dir.txt
 
 
-gobuster dir -u https://challenges.hackrocks.com/restricted-area/downloads/ -w /usr/share/wordlists/dirb/common.txt -x .txt,.php,.docx,.zip
+gobuster dir -u https://dumb-factor-authentication-2db2a35c2312f289-global.challs.brunnerne.xyz -w /usr/share/wordlists/dirb/common.txt -x .txt,.php,.docx,.zip
 
 .DS_Store   //De algo de destock
 .htaccess   //De apache
