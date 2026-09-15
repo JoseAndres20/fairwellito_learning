@@ -24,4 +24,8 @@ binwalk -e nombre_archivo.ext
 
 ```python
 binwalk -e -M nombre_archivo.ext
+
+
+//es mejor para extraer todo
+binwalk -e --dd='.*' filename
 ```
