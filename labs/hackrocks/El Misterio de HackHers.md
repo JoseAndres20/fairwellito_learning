@@ -1,9 +1,6 @@
 
 
 
-
-
-
 >Un **programa** te espera en silencio...  
 No dice mucho, pero sabe si lo que ingresas es correcto.  
 Algo fue ocultado con una técnica simétrica, repetitiva, predecible.  
