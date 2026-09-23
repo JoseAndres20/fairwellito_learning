@@ -1,7 +1,7 @@
 ```python
 chmod +x webrecon.sh ./webrecon.sh http://10.10.10.10
 ```
-
+555555
 ```bash
 #!/bin/bash
 # webrecon.sh - Reconocimiento rápido de un sitio web para CTF
